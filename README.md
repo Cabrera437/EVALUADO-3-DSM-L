@@ -44,7 +44,7 @@ de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería
 
 ## 📂 Archivos importantes
 
-- **[Video de presentación 📽]()**
+- **[Video Demostrativo de la app 📽]()**
 - **[Evaluación DSM L 📃]()**
 
 ---
