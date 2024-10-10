@@ -44,8 +44,8 @@ de aprendizaje, como libros, videos y tutoriales relacionados con la ingeniería
 
 ## 📂 Archivos importantes
 
-- **[Video Demostrativo de la app 📽]()**
-- **[Evaluación DSM L 📃]()**
+- **[Video Demostrativo de la app 📽](https://drive.google.com/drive/home)**
+- **[Evaluación DSM L 📃](https://github.com/Cabrera437/EVALUADO-3-DSM-L/blob/master/documento/Desafio3.pdf)**
 
 ---
 <div align="center">
